@@ -1,0 +1,8 @@
+(self["webpackChunk_canva_web"] = self["webpackChunk_canva_web"] || []).push([[5214],{
+
+/***/ 373101:
+function(_, __, __webpack_require__) {__webpack_require__.n_x = __webpack_require__.n;const __web_req__ = __webpack_require__;__web_req__(413926);__web_req__(662164);__web_req__(978769);self._fe4d99ebe0d2d259646a80d250150d47 = self._fe4d99ebe0d2d259646a80d250150d47 || {};(function(__c) {var Wsf=__webpack_require__(785893).jsx;var Xsf=__webpack_require__(667294).memo;__c.DJa={V1c:function({skeleton:a,Pq:b,G:c,Gc:d,Dh:e,wc:f,ba:g,Ut:h,Jb:k,Fi:l,NQa:m,Hy:n,wB:p,Link:r,Dj:u,mi:v,Tl:x}){({Rj:x}=x(__c.eN));const {UGa:y}=__c.mM({skeleton:a,Pq:b,G:c,Gc:d,Dh:e,wc:f,ba:g,Ut:h,Jb:k,Fi:l,Hy:n,wB:p,Link:r,Dj:u,Rj:x,GU:void 0,mi:v});return{SOc:Xsf(({model:A})=>{const {Yia:B}=__c.lEc();void(null===m||void 0===m?void 0:m());return Wsf(y,Object.assign({},A,{breadcrumbs:A.jn,zka:void 0,hsa:void 0,Yia:B}))})}}};
+}).call(self, self._fe4d99ebe0d2d259646a80d250150d47);}
+
+}])
+//# sourceMappingURL=sourcemaps/9964c4d289ccb890.js.map

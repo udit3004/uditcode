@@ -1,0 +1,52 @@
+.Heading{
+    display: flex;
+    gap: 1rem;
+    
+}
+.progarm-H{
+    font-size: 3.5rem;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+   color: white;
+    text-align: center;
+   
+    font-weight:bold;
+    font-style: italic;
+    /* transform: rotate(-1deg); */
+    text-transform: uppercase;
+}
+
+.program-Head{
+    display: flex;
+    height: 40vh;
+    margin-top: 2rem;
+}
+.cat{
+    height:20rem ;
+    width: 25rem;
+    display: flex;
+    flex-direction: column;
+    background-color:grey;
+    margin: 1rem;
+    border-radius: .5rem;
+    color: white;
+    
+    padding: 10px;
+
+}
+.cat:hover{
+    background-color: var(--orange);
+    cursor: pointer;
+    color: black;
+}
+.imglogo{
+    height: 40px;
+}
+.join-now>img{
+    margin: 1rem;
+}
+.cat>span:nth-of-type(1){
+    font-weight: bold;
+    padding: .5rem;
+}

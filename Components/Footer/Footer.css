@@ -1,0 +1,29 @@
+.foot{
+    width: 100%;
+    background-color: rgb(71, 67, 67);
+    color: white;
+    height: 3rem;
+     border: 1px solid black;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+
+}
+.linkedin{
+    height: 20px ;
+    width: 20px;
+    padding: 10px
+}
+.mail{
+    display: flex;
+
+}
+.email{
+    margin-left: 2rem;
+
+}
+.mail>.input{
+    padding: 5px;
+    margin: 3px;
+
+}
